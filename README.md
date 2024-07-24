@@ -12,4 +12,4 @@ Hidden files or those whose name begins with "." or ".." aren't accounted for.
 
 It is a simple script and should run in the command line without issues.
 
-Lightly tested on Windows 10.
+Lightly tested on Windows 10. I recommend not actually using this program for practical purposes.
